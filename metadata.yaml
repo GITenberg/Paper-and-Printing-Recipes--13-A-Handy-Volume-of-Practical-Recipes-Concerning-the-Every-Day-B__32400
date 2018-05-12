@@ -1,0 +1,27 @@
+_repo: Paper-and-Printing-Recipes--13-A-Handy-Volume-of-Practical-Recipes-Concerning-the-Every-Day-B__32400
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, John Sawtelle
+    alias: Ford, J. Sawtelle
+    gutenberg_agent_id: '35827'
+    url: http://www.gutenberg.org/2009/agents/35827
+description: ''
+gutenberg_issued: '2010-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32400'
+  lccn: 06013786
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printing -- United States -- Handbooks, manuals, etc.'
+- !lcc 'Z'
+title: "Paper and Printing Recipes\r\nA Handy Volume of Practical Recipes, Concerning\
+  \ the Every-Day Business of Stationers, Printers, Binders, and the Kindred Trades"
+url: http://www.gutenberg.org/ebooks/32400
