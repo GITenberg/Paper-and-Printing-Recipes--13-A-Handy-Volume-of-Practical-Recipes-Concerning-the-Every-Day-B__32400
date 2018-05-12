@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35827'
     url: http://www.gutenberg.org/2009/agents/35827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32400#Paper-and-Printing-Recipes--13-A-Handy-Volume-of-Practical-Recipes-Concerning-the-Every-Day-B_
 gutenberg_issued: '2010-05-17'
 gutenberg_type: Text
 identifiers:
